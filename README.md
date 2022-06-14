@@ -27,8 +27,8 @@ The following images show the result of AE in Tensorflow. The first image is the
 The second image is the predicted background.  
 ![Background_Image](https://github.com/klickmal/autoencoder_for_background_extraction/blob/master/result/bg.jpg)    
 
-**Reference:  **  
-[1] https://github.com/Seratna/TensorFlow-Convolutional-AutoEncoder  
-[2] Zhou Wang et al. Image Quality Assessment: From Error Visibility to Structural Similarity, IEEE, Transacctions on Image Processing, 2014  
-[3] https://stackoverflow.com/questions/39051451/ssim-ms-ssim-for-tensorflow  
-[4] http://changedetection.net/
+## Reference
+* https://github.com/Seratna/TensorFlow-Convolutional-AutoEncoder  
+* Zhou Wang et al. Image Quality Assessment: From Error Visibility to Structural Similarity, IEEE, Transacctions on Image Processing, 2014  
+* https://stackoverflow.com/questions/39051451/ssim-ms-ssim-for-tensorflow  
+* http://changedetection.net/
